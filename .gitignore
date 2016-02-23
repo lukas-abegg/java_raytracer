@@ -1,0 +1,15 @@
+# Java
+*.class
+
+# Intellij
+tasks.xml
+.idea/misc.xml
+.idea/workspace.xml
+
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
