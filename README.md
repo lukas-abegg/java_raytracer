@@ -2,6 +2,8 @@
 
 This is a self programmed Raytracer to simulate 3D Scenarios.
 
+![Image Reflection](./reflection.png)
+
 ## How does it work
 The Raytracer sends rays and calculate how the visibility of a 3D object is, seen from a specific point in a room.
 
