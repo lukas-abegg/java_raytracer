@@ -1,11 +1,11 @@
 # Raytracer
 
-This is a self programmed Raytracer to simulate 3D Scenarios.
+This is a self programmed Raytracer to simulate 3D scenarios.
 
 ![Image Reflection](./reflection.png)
 
 ## How does it work
-The Raytracer sends rays and calculate how the visibility of a 3D object is, seen from a specific point in a room.
+The Raytracer sends rays and calculates how the visibility of a 3D objects is, seen from a specific point in a room.
 
 ## Important features
 The most important features are:
@@ -13,9 +13,9 @@ The most important features are:
 * Motion Blur-Effect
 * Refraction
 * Reflection
-* Texturierung
+* Texturing
 * Shadow calculation
-* Transformations
+* Transformation
 
 ## Testing
 All tests are defined in the folder **src > testing**.
